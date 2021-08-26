@@ -1,0 +1,67 @@
+*{
+   margin: 0; 
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+img{
+    border: 5px solid brown;
+    width: 300px;
+    height: 250px;
+}
+
+#ironman{
+    background-color: #FAB201;
+}
+
+#captainamerica{
+    background-color: #FB4F93;
+}
+
+#hulk{
+    background-color: #00C7DA;
+}
+
+#spiderman{
+    background-color: #98FB98;
+}
+
+header{
+    background-image: url("./assets/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding: 200px;
+}
+
+h1{
+    font-size: 6em;
+    letter-spacing: 10px;
+}
+
+h2{
+    font-size: 4em;
+}
+
+h3{
+    font-size: 2em;
+}
+
+h4{
+    font-size: 1.5em;
+}
+
+.avengers{
+    color: white;
+    text-align: center;
+    padding: 70px;
+}
+
+p{
+    font-style: italic;
+    margin: 0 20vw;
+    padding: 10px;
+}
